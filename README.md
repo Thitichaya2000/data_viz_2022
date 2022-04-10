@@ -20,3 +20,5 @@ Present
 
 # สอบ Final อาทิตย์สอบ
 ให้โจทย์ ศุกร์ที่ 8 เมษา ส่งงานก่อนวันจันทร์ที่ 11 เมษา
+  * [Final Exam](https://github.com/Thitichaya2000/data_viz_2022/blob/main/Final_Exam.ipynb)
+  * Link Dashboard : https://datastudio.google.com/reporting/a76882b0-d2de-409a-a7b9-b9d4b4a6061a
